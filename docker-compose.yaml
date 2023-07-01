@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  me:
+    build: .
+    ports:
+        - "8000:80"
