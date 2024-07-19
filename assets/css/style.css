@@ -61,7 +61,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #f4e9d7;
 }
 
 #preloader:before {
