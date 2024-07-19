@@ -1,0 +1,6 @@
+services:
+  me:
+    build: .
+    container_name: me
+    ports:
+      - "3500:3500"
